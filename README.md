@@ -22,4 +22,5 @@ Do ```npm install``` on the terminal.
 Now you need to go to the <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>. <br>
 ![image](https://user-images.githubusercontent.com/48062454/114822711-1bd34d80-9de0-11eb-84be-d1f8b03c6852.png) <br>
 Click on the ```New Application```. <br>
-Give the App any name. ![image](https://user-images.githubusercontent.com/48062454/114822828-44f3de00-9de0-11eb-9c87-fd00c961e8de.png) <br>
+Give the App any name. <br>
+![image](https://user-images.githubusercontent.com/48062454/114822828-44f3de00-9de0-11eb-9c87-fd00c961e8de.png) <br>
