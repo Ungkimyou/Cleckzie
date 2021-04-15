@@ -20,7 +20,7 @@ Click on the green colored ```Code``` button, Cilck on ```Download ZIP``` and ex
 Do ```npm install``` on the terminal.
 
 Now you need to go to the <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>. <br> <br>
-Click on: ![image](https://user-images.githubusercontent.com/48062454/114822711-1bd34d80-9de0-11eb-84be-d1f8b03c6852.png) <br> <br>
+Click on ![image](https://user-images.githubusercontent.com/48062454/114822711-1bd34d80-9de0-11eb-84be-d1f8b03c6852.png) <br> <br>
 
 Give the app any name and click on ```Create```. (This is not gonna be the name which will be given to the bot)
 ![image](https://user-images.githubusercontent.com/48062454/114822828-44f3de00-9de0-11eb-9c87-fd00c961e8de.png) <br>
