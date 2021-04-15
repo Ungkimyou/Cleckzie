@@ -10,5 +10,5 @@ Download <a href="https://nodejs.org/en/">NodeJS.</a> <br>
 Download <a href="https://git-scm.com/"> Git. </a> <br>
 
 ## Downloading the code
-Open Visual Studio code and do ```Ctrl + Shift + \`\``` in order to open terminal and do gh repo clone
+Open Visual Studio code and do ```Ctrl + Shift + ` ``` in order to open terminal and do gh repo clone
 
