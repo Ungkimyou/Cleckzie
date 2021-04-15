@@ -11,3 +11,5 @@ Download <a href="https://git-scm.com/"> Git. </a> <br>
 
 ## Downloading the code
 Open Visual Studio code, press ```Ctrl + Shift + ` ``` in order to open terminal and do ```gh repo clone SpreeHertz/Cleckzie``` <br>
+
+Another way is to download the code.
