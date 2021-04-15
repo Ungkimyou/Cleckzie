@@ -14,4 +14,4 @@ Open Visual Studio code, press ```Ctrl + Shift + ` ``` in order to open terminal
 
 Another way is to download the code. <br>
 ![image](https://user-images.githubusercontent.com/48062454/114822014-11648400-9ddf-11eb-9268-f895cffae1d4.png) <br>
-Click on the green colored "Code" button and click on 
+Click on the green colored ```Code``` button, Cilck on ```Download ZIP``` and extract it.
