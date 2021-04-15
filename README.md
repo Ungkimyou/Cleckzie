@@ -16,7 +16,7 @@ Another way is to download the code. <br>
 ![image](https://user-images.githubusercontent.com/48062454/114822014-11648400-9ddf-11eb-9268-f895cffae1d4.png) <br>
 Click on the green colored ```Code``` button, Cilck on ```Download ZIP``` and extract it.
 
-## Running the bot
+## Making & Running the bot
 Do ```npm install``` on the terminal.
 
 Now you need to go to the <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>. <br> <br>
